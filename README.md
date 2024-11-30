@@ -118,12 +118,3 @@ python evaluate.py --model small_bert --task hard
 
 ## **Contributing**
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request. For major changes, open an issue to discuss your proposed changes.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` provides a clear and organized overview of the project, making it easy for collaborators and users to understand and work with your repository.
